@@ -7,10 +7,21 @@
 
 ## Instructions
 
-Copy the folder this README.md file reside in to your MSFS 2020 Community Folder
+Copy the folder this README.md file resides in to your MSFS 2020 Community Folder
 
-- Insert Steam Path
-- Insert MS Store Path
+### Windows Store Version
+
+`C:\Users\[Your User Name]\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\`
+
+### Steam Path
+
+`C:\Users\[Your User Name]\AppData\Local\Packages\Microsoft.FlightDashboard_8wekyb3d8bbwe\LocalCache\Packages\`
+
+### Custom Path
+
+For example
+
+`F:\MSFS2020\Community`
 
 ### Windows 10/11
 
@@ -39,11 +50,11 @@ Copy the folder this README.md file reside in to your MSFS 2020 Community Folder
 ### Developers
 
 - Hype Performance Group (H135/H145)
-- Rob Carrich (Gloster Meteor F Mk.8)
-- BIGRADIALS (Curtis P40 Tomahawk) (Payware)
-- FSAdni (Curtis P40 Tomahawk)
+- Rob Richardson's (Gloster Meteor F Mk.8)
+- BIGRADIALS (Curtiss P40 Tomahawk) (Payware)
+- FSAdni (Curtiss P40 Tomahawk)
 
-### AVP Members 
+### Aus Virtual Pilots Members 
 
 - Mike (SoloDog07)
 - Neil (MaximusDog)

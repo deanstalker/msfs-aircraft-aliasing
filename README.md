@@ -1,4 +1,4 @@
-# Aircraft Aliasing
+# Microsoft Flight Simulator 2020 Multi-player Aircraft Aliasing/Fixes
 
 ## Dependencies
 

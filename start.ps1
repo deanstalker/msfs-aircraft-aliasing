@@ -24,7 +24,7 @@ do {
       }
       "3" {        
         . "$scriptsPath/patch/rob-richardson-gloster-meteor-icao-fix/patch.ps1"
-        patchGlosterMeteorMk8
+        PatchGlosterMeteorMk8
       }
       Default {}
   }
